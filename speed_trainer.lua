@@ -2366,7 +2366,7 @@ end
 -- Grab User Input
 function get_input(default_csv)
   while state ~= "finished" do
-    boolInput, input_csv = reaper.GetUserInputs("Speed Trainer", 4, "Begin BPM (%),End BPM (%),Step (%),Frequency", input)
+    boolInput, input_csv = reaper.GetUserInputs("Speed Trainer", 4, "Begin Playrate (%),End Playrate (%),Step (%),Frequency", input)
      
      -- split the input_csv string into individual variables
      if boolInput then 
