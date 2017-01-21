@@ -1,6 +1,7 @@
 --[=[
   Lokasenna_GUI Script example
   by Lokasenna
+  Code by Bert Hu http://github.com/berthu
 
 ]=]--
 
