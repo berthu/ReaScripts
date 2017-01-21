@@ -8,3 +8,6 @@ Instructions:
 * 2. Make a time selection
 * 3. Run the script. Choose a playrate to start and end with, how big you want the playrate increments to be and how frequently they should be incremented.
 * 4. Press <ESC> or <SPC> at the dialogue to quit. Press 
+
+## quick_playrate_set.lua
+Shortcut action to change the playrate. Bind it to a key. I like Cmd + !
